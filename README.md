@@ -1,5 +1,5 @@
 
-# Parallax Website with Scroll-Triggered Animations
+# Parallax Website with Scroll-Triggered Animations 
 
 This project demonstrates a parallax website with advanced CSS animations, creating an immersive and dynamic user experience. The key features include background elements moving at different speeds than the foreground content, smooth scroll-triggered animations, and a visually appealing design.
 
